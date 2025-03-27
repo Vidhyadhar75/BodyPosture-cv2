@@ -13,7 +13,7 @@
 ## 📂 Installation
 
 ```bash
-git clone https://github.com/yourusername/BodyPosture-cv2.git
+git clone https://github.com/Vidhyadhar75/BodyPosture-cv2.git
 cd BodyPosture-cv2
 pip install -r requirements.txt
 ```
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ## 🛠 Usage
 
 ```bash
-python posture_detection.py
+python bodyposture.py
 ```
 
 ![Screenshot 2025-03-27 145502](https://github.com/user-attachments/assets/4c4ef9c8-bee6-4882-9515-4124d57c9195)
