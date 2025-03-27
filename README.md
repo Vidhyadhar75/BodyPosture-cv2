@@ -24,6 +24,7 @@ pip install -r requirements.txt
 python posture_detection.py
 ```
 
+![Screenshot 2025-03-27 145502](https://github.com/user-attachments/assets/4c4ef9c8-bee6-4882-9515-4124d57c9195)
 
 
 ## 🤖 Technologies Used
