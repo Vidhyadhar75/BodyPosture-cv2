@@ -23,10 +23,6 @@ pip install -r requirements.txt
 ```bash
 python bodyposture.py
 ```
-
-![Screenshot 2025-03-27 145502](https://github.com/user-attachments/assets/4c4ef9c8-bee6-4882-9515-4124d57c9195)
-
-
 ## 🤖 Technologies Used
 - OpenCV
 - TensorFlow/Keras
@@ -36,7 +32,10 @@ python bodyposture.py
 ## 📌 Contribution
 Pull requests are welcome! Feel free to improve the model or optimize the code.
 
-## 🔗 License
-This project is licensed under the MIT License.
+
+![Screenshot 2025-03-27 145502](https://github.com/user-attachments/assets/4c4ef9c8-bee6-4882-9515-4124d57c9195)
+
+
+
 
 ---
